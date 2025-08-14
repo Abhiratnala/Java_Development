@@ -1,2 +1,18 @@
-Project Description:
+
+ 📌 Project: Currency Converter using Java & Live API Integration
+I’m thrilled to share my completed project for the Pinnacle Labs 2025 Java Development Internship!
+🧠 Project Description:
  I developed a Java-based Currency Converter that fetches real-time exchange rates using a REST API and converts between multiple international currencies. This project enhanced my understanding of:
+Java I/O and Exception Handling
+API Integration in Java
+User Input Validation
+Dynamic Currency Processing
+🔧 Tools & Tech Used:
+Java (Core + OOPs)
+IntelliJ IDEA
+REST API (ExchangeRate API)
+✅ Project Highlights:
+Console-based clean UI
+Supports major currencies (USD, INR, EUR, etc.)
+Error handling for invalid inputs and API failures
+
