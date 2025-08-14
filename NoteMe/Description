@@ -1,0 +1,20 @@
+🧠 Project Description:
+I developed a Java-based Note-Taking Application that allows users to create, edit, delete, and search notes, with each note automatically timestamped for easy organization. The application stores all notes in individual “notebooks,” enabling quick retrieval and date-based searches.
+This project helped me strengthen my skills in:
+Java File I/O and Exception Handling
+User Input Processing
+Date & Time APIs in Java (java.time)
+Menu-Driven Console Application Design
+
+🔧 Tools & Tech Used:
+Java (Core + OOPs)
+IntelliJ IDEA
+Java I/O (FileReader, FileWriter, BufferedReader, etc.)
+LocalDateTime & DateTimeFormatter
+
+✅ Project Highlights:
+Console-based clean UI with menu navigation
+Create and manage multiple notebooks
+Search notes by keywords or date
+Append or edit existing notes without overwriting previous entries
+Automatic timestamps for each note
